@@ -1,5 +1,8 @@
 # h5_share
 H5 Share
 
-Support:
-Whatsapp  Skype  Facebook   Twitter
+## Reference data： 
+[The Open Graph protocol](http://ogp.me/)
+
+## Support:
+Whatsapp | Skype | Facebook | Twitter ...
