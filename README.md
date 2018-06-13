@@ -1,7 +1,7 @@
 # h5_share
 H5 Share
 
-## Reference data： 
+## Reference： 
 [The Open Graph protocol](http://ogp.me/)
 
 ## Support:
