@@ -4,7 +4,7 @@ H5 Share
 ## Reference: 
 [The Open Graph protocol](http://ogp.me/)
 
-## Support:
+## Supported App:
 Whatsapp | Skype | Facebook | Twitter ...
 
 ## Preview:
